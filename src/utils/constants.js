@@ -4,7 +4,13 @@ export const logo =
 export const background_image =
     "https://assets.nflxext.com/ffe/siteui/vlv3/af2fac72-d956-4952-8686-4d45d359d78c/web/IN-en-20250526-TRIFECTA-perspective_5db3e163-56f7-47c7-9a65-b79b9d76bf24_large.jpg"
 
-
+export const API_KEY={
+    method: 'GET',
+    headers: {
+      accept: 'application/json',
+      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3YzYwOWU0ZmM3ZTJlMmIyNjczZTc3YzAzYzkzNDhlZCIsIm5iZiI6MTc0OTIxNzc1MC45OTEwMDAyLCJzdWIiOiI2ODQyZjFkNmEyODcyNWQ0YWUxYjA1MTciLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.9aJC9l9IvEBT93GbDTkEnEltYaYGGYhXPkaH71XjJvE'
+    }
+  };
 
   export const IMG_CDN="https://image.tmdb.org/t/p/w500"
 

@@ -58,7 +58,7 @@ const Header = () => {
   }
 
   return (
-    <header className="absolute w-screen py-2 z-10">
+    <header className="absolute w-screen py-2 z-10 bg-black">
       <div className="flex items-center justify-between px-6 relative z-20">
         {/* Logo */}
         <img
