@@ -11,7 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
-constant.js
+src/utils/constants.js
+
 
 # Editor directories and files
 .vscode/*
