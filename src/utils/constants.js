@@ -14,3 +14,9 @@ export const API_KEY={
 
   export const IMG_CDN="https://image.tmdb.org/t/p/w500"
 
+  export const languages =[
+    {identifier:"en",name:"English"},
+    {identifier:"hindi",name:"Hindi"},
+    {identifier:"spanish",name:"Spanish"}
+  ]
+
