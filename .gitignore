@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 src/utils/constants.js
+.env
 
 
 # Editor directories and files
